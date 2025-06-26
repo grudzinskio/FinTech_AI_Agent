@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]  # The server to run FastAPI
+pydantic
+sqlalchemy
+psycopg2-binary  # PostgreSQL driver
+pytest           # For testing
